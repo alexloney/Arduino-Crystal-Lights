@@ -30,8 +30,8 @@
 // #define LED_PIN_2 3
 
 // When moving to the Nano, I used the following pins:
-#define LED_PIN_1 A1
-#define LED_PIN_2 A2
+#define LED_PIN_1 A3
+#define LED_PIN_2 A4
 
 // #define BUTTON_PIN 4
 
